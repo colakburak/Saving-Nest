@@ -37057,7 +37057,7 @@ A.aaL.prototype={
 $0(){this.a.d=this.b.a},
 $S:0}
 A.Jy.prototype={
-K(a){var s,r=null,q=t.w,p=A.JV(B.GR,a.V(q).f.a.a>=1100),o=A.cI(A.cG(r,B.Jm,B.p,r,r,new A.d_(B.j,r,r,A.mq(25),r,r,B.an),r,r,r,B.AQ,r,r,r),2),n=A.f7("Emily Smith",r,r,r,B.vP,r,r)
+K(a){var s,r=null,q=t.w,p=A.JV(B.GR,a.V(q).f.a.a>=1100),o=A.cI(A.cG(r,B.Jm,B.p,r,r,new A.d_(B.j,r,r,A.mq(25),r,r,B.an),r,r,r,B.AQ,r,r,r),2),n=A.f7("Lorenzo Fiorini",r,r,r,B.vP,r,r)
 q=a.V(q).f
 s=t.p
 return new A.c8(B.me,A.ey(A.a([p,o,A.cI(A.ey(A.a([n,B.GS,A.JV(new A.c8(B.AZ,A.aiZ(new A.nk("https://image.freepik.com/free-photo/dreamy-girl-biting-sunglasses-looking-away-with-dreamy-face-purple-background_197531-7085.jpg")),r),!(q.a.a<650))],s),B.FJ,B.F),1)],s),B.S,B.F),r)}}
